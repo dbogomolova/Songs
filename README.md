@@ -2,7 +2,7 @@
 This code help you to pull songs out of list and summarize the time of songs. 
 
 ## Описание 
-Этот код поможет вам вытащить 3 рандормные песни из списка и суммировать их время. Для ФФБ РАНХиГС
+Этот код поможет вам вытащить 3 разные песни из списка и суммировать их время. Для ФФБ РАНХиГС
 
 ## Участники 
 * Богомолова Даша
@@ -13,4 +13,6 @@ This code help you to pull songs out of list and summarize the time of songs.
 ## Требуемые пакеты 
 * flask
 * python10
+* random
+* datetime
 
